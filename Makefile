@@ -1,4 +1,4 @@
-etup:
+setup:
 	@echo "Creating public dir..."
 	git worktree add -B master public origin/master
 	@echo "Getting themes..."
@@ -11,3 +11,7 @@ clean:
 run:
 	@echo "Running hubo server"
 	hugo serve -D --watch
+
+build:
+	@echo "Generating build into public dir"
+	hugo --minify
