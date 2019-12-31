@@ -1,4 +1,37 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "https://lapazcloud.com/"
+languageCode = "es"
 title = "La Paz Cloud"
-theme = "ananke"
+theme = "mediumish"
+copyright = "Comunidad La Paz Cloud"
+
+[params.social]
+  github = "lapazcloud"
+
+[params.index]
+  mdtext = '''
+### Bienvenid@s
+En este sitio comunicaremos información sobre futuros eventos, <br />
+temas relacionados a tecnolgías cloud, tutoriales <br />
+y resúmenes de las reuniones de la comunidad <i>La Paz Cloud</i>.
+
+Si deseas saber más visita este [link](/nosotros) o lee <br />
+alguna de nuestras publicaciones en el [blog](/blog).
+'''
+
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "Nosotros"
+    identifier = "nosotros"
+    weight = 200
+    url = "/nosotros"
+
+# En caso se deseen adicionar nuevas secciones
+# [[menu.main]]
+#     name = "Archivos"
+#     identifier = "archivos"
+#     weight = 300
+#     url = "/static/archivos"
