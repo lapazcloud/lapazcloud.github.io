@@ -3,7 +3,7 @@ title: "Un Resúmen del 2019"
 date: 2019-12-31T18:31:31-04:00
 url: /blog/un-resumen-del-2019
 author: Sergio Guillen
-draft: true
+draft: false
 ---
 
 Saludos!
