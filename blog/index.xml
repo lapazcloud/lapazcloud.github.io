@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>Comunidad La Paz Cloud</copyright>
-    <lastBuildDate>Tue, 31 Dec 2019 18:31:31 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2020 22:31:11 -0400</lastBuildDate>
     
 	<atom:link href="https://lapazcloud.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Notas reunión 2020-01-14</title>
+      <link>https://lapazcloud.com/blog/reunion-2020-01-14/</link>
+      <pubDate>Tue, 14 Jan 2020 22:31:11 -0400</pubDate>
+      
+      <guid>https://lapazcloud.com/blog/reunion-2020-01-14/</guid>
+      <description>Hola! hoy fue la primera reunión de la Comunidad La Paz Cloud del 2020. Para hacerlo interesante, tuvimos problemas con el lugar donde habitualmente nos reunimos ya que se encontraba cerrado. Por suerte nos organizamos y fuimos a otro café que se encontraba a unos metros.
+Al igual que el año pasado, uno de los objetivos principales que tenemos es el de formarnos en diferentes tecnologías relacionadas a Cloud y que permitan adoptar la cultura DevOps en nuestros trabajos o proyectos.</description>
+    </item>
     
     <item>
       <title>Un Resúmen del 2019</title>
