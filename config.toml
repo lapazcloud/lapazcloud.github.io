@@ -28,6 +28,11 @@ alguna de nuestras publicaciones en el [blog](/blog).
     identifier = "nosotros"
     weight = 200
     url = "/nosotros"
+[[menu.main]]
+    name = "Documentacion"
+    identifier = "documentacion"
+    weight = 300
+    url = "/docs"
 
 # En caso se deseen adicionar nuevas secciones
 # [[menu.main]]

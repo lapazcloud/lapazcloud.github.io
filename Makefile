@@ -2,7 +2,7 @@ setup:
 	@echo "Creating public dir..."
 	git worktree add -B master public origin/master
 	@echo "Getting themes..."
-	git submodule update --recursive
+	git submodule update --init --recursive
 
 clean:
 	@echo "Removing public dir"

@@ -2,7 +2,7 @@
 
 ## Uso básico
 
-**Setup**
+### Setup
 
 Establecer configuracion inicial y necesaria para empezar a desarrollar:
 
@@ -13,7 +13,17 @@ Establecer configuracion inicial y necesaria para empezar a desarrollar:
 make setup
 ```
 
-**Run**
+### Creacion de articulos
+
+Para poder crear un articulo en la seccion de documentacion:
+
+`hugo new docs/documento-ejemplo-de-buenas-practicas`
+
+Y luego proceder a editor el documento:
+
+`vim content/docs/documento-ejemplo-de-buenas-practicas.md`
+
+### Ejecucion
 
 Correr la aplicación. Se debe tener en cuenta que `hugo` no puede correr en background asi que tendremos que dejar una terminal con la aplicación en ejecución. Cuando los cambios necesarios esten listos entonces `Ctrl+c`.
 
@@ -21,7 +31,7 @@ Correr la aplicación. Se debe tener en cuenta que `hugo` no puede correr en bac
 make run
 ```
 
-**Clean**
+### Limpieza
 
 Borrar archivos que ya no necesitamos
 
