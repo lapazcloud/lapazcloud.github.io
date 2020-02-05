@@ -11,7 +11,7 @@ Este apartado contendra toda la documentacion resultado de investigaciones y pru
 ## Procesos de operacion
 
 - [Integracion Continua](/docs/integracion-continua)
-
+- [Integracion Continua Laboratorio](/docs/integracion-continua-laboratorio)
 ## Buenas practicas tecnicas
 
 - TBD
