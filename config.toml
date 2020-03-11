@@ -4,6 +4,9 @@ title = "La Paz Cloud"
 theme = "mediumish"
 copyright = "Comunidad La Paz Cloud"
 
+disqusShortname = "lapazcloud"
+disqus_title = "La Paz Cloud"
+
 [params.social]
   github = "lapazcloud"
 
