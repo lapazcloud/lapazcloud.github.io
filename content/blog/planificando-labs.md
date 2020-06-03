@@ -23,23 +23,23 @@ Aqui se tiene una lista tentativa de laboratorios que nos gustaría revisarlos e
 ### Security
 - OpenVPN setup :: **Sergio Guillen**
 - Bastion Host setup with Ansible + SSL Certificates :: **Dennis Ruiz**
-- DevSecOps in Continuous Integrations? :: TBD
+- DevSecOps in Continuous Integration :: **Grover**
 
 ### Containers
-- Kubernetes on-prem setup? :: TBD
+- Kubernetes on-prem setup :: **Ever**
 - K8S and Prometheus operator integration
 - Full AWS ECS (no fargate) + CDN  with Pulumi
 - Full AWS ECS (no fargate) + CDN  with Terraform
 
 ### Monitoring and Logging
-- Prometheus monitoring sel-hosted with Ansible + TF Infra
+- Prometheus monitoring sel-hosted with Ansible + TF Infra :: **Mónica**
 - Graylog+Grafana log aggregation sel-hosted with Ansible + TF Infra
 
 ### CI/CD and Orchestrators
-- Jenkins and Terraform developmet workflow
-- AWS ElasticBeanstalk build and deploy from Github
 - SonarQube and Jenkins worflow with Github PRs
-- Automated tests with SauceLabs and Jenkins workflow
+- AWS ElasticBeanstalk build and deploy from Github
+- Automated tests with SauceLabs and Jenkins workflow :: **Arnold Paye**
+- Jenkins and Terraform developmet workflow
 
 ### Other services
 - Verdaccio private npm setup :: **Dennis Ruiz**
